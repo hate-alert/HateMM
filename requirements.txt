@@ -1,0 +1,14 @@
+fasttext
+transformers
+torch
+torchvision
+torchaudio
+numpy
+pandas
+moviepy
+librosa
+matplotlib
+tqdm
+scikit-learn
+Pillow
+opencv-python
